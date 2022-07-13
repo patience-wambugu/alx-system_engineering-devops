@@ -1,3 +1,3 @@
 #!/bin/bash
 mv [[:upper:]]* /tmp/u
-chmod u+x
+chmod u+x mv [[:upper:]]* /tmp/u
